@@ -1,3 +1,7 @@
 body {
     background-color: pink;
+    background-image: url('../imgs/SI_430_ORCL_Sol_site.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
 }

@@ -1,5 +1,9 @@
 body {
-  background-color: pink; }
+  background-color: pink;
+  background-image: url('../src/assets/imgs/SI_430_ORCL_Sol_site.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 20vh; }
 
 .botao {
   background-color: #19B3E6;
